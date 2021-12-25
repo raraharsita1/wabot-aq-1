@@ -22,16 +22,16 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/saipulanuar/wabot-aq-1",
+  "homepage": "https://github.com/Nurutomo/wabot-aq",
   "author": {
     "name": "𝙆𝙞𝙣𝙜 𝙊𝙛 𝘽𝙚𝙖𝙧"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saipulanuar/wabot-aq-1.git"
+    "url": "git+https://github.com/Nurutomo/wabot-aq.git"
   },
   "bugs": {
-    "url": "https://github.com/saipulanuar/wabot-aq-1/issues"
+    "url": "https://github.com/Nurutomo/wabot-aq/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
